@@ -1,8 +1,15 @@
 Game Theory Books
+[Two-Person Game Theory: The Essential Ideas](https://www.amazon.com/Two-Person-Game-Theory-Essential-Mathematics-ebook/dp/B00A73FPCI/ref=sr_1_1?keywords=Two-person+game+theory+The+essential+ideas&qid=1571636270&s=books&sr=1-1)
+
+![img](https://images-na.ssl-images-amazon.com/images/I/41NYWi6AVKL.jpg)
 
 [Game Theory: An Introduction](https://www.amazon.co.uk/Game-Theory-Introduction-Steven-Tadelis/dp/0691129088)
 
  ![img](https://images-na.ssl-images-amazon.com/images/I/41SkiQADjgL._SX348_BO1,204,203,200_.jpg) 
+
+[Games and Information: An Introduction to Game Theory](https://www.amazon.com/Games-Information-Introduction-Game-Theory/dp/1405136669/ref=sr_1_1?keywords=Games+and+information+an+introduction+to+game+theory&qid=1571636044&s=books&sr=1-1)
+
+![img](https://images-na.ssl-images-amazon.com/images/I/41eaDcvXqxL._SX330_BO1,204,203,200_.jpg)
 
 [Game Theory](https://www.amazon.co.uk/Game-Theory-Michael-Maschler/dp/1107005485/ref=sr_1_7?keywords=Game+Theory&qid=1571585591&s=books&sr=1-7)
 
@@ -35,6 +42,10 @@ Game Theory Books
 [Game Theory Through Examples](https://www.maa.org/press/maa-reviews/game-theory-through-examples)
 
 ![img](https://static.cambridge.org/content/id/urn:cambridge.org:id:book:9781614441151/resource/name/9781614441151i.jpg)
+
+[Evolutionary Games and Population Dynamics](https://www.amazon.com/Evolution-Games-Population-Dynamics-Hofbauer-dp-052162570X/dp/052162570X/ref=mt_paperback?_encoding=UTF8&me=&qid=1571636136)
+
+![img](https://images-na.ssl-images-amazon.com/images/I/41f4Yxbj4wL._SX382_BO1,204,203,200_.jpg)
 
 [The Theory of Learning in Games](https://mitpress.mit.edu/books/theory-learning-games)
 
@@ -71,6 +82,17 @@ Game Theory Books
  
  ![img](https://images-na.ssl-images-amazon.com/images/I/413%2Bw%2BrfWdL._SX326_BO1,204,203,200_.jpg)
  
+ [Game Theory 101: The Complete Textbook](https://www.amazon.com/Game-Theory-101-Complete-Textbook/dp/1492728152/ref=pd_rhf_dp_p_img_1?_encoding=UTF8&psc=1&refRID=KBFBVD9W4WPB3A2A8ZWY)
+ 
+ ![img](https://images-na.ssl-images-amazon.com/images/I/51cu1nYbKHL._SX331_BO1,204,203,200_.jpg)
+ 
+ [Evolutionary Games and Equilibrium Selection](https://www.amazon.com/Evolutionary-Equilibrium-Selection-Economic-Evolution/dp/0262193825/ref=sr_1_1?keywords=Evolutionary+Games+and+Equilibrium+Selection&qid=1571635744&s=books&sr=1-1)
+ 
+ ![img](https://images-na.ssl-images-amazon.com/images/I/41AXYS865XL._SX395_BO1,204,203,200_.jpg)
+ 
+ [Introduction to the Theory of Cooperative Games](https://www.amazon.com/Introduction-Theory-Cooperative-Decision-Library/dp/3540729445/ref=sr_1_1?keywords=introduction+to+the+Theory+of+Cooperative+Games&qid=1571635916&s=books&sr=1-1)
+ 
+ ![img](https://images-na.ssl-images-amazon.com/images/I/41C7EEb16FL._SX313_BO1,204,203,200_.jpg)
  ***
  If you are not academic and want to know the story of Game Theory, you can read the following books.
  ***
