@@ -38,6 +38,9 @@ Game Theory Books for Academic
 
 ![img](https://images.springer.com/sgw/books/medium/9783764323783.jpg)
 
+[Introduction to Game Theory](https://www.springer.com/gp/book/9789386279170)
+
+![img](https://images.springer.com/sgw/books/medium/9789386279170.jpg)
 
 [Game Theory]( https://mitpress.mit.edu/books/game-theory )
 
@@ -65,19 +68,19 @@ Game Theory Books for Academic
 
 [The Theory of Learning in Games](https://mitpress.mit.edu/books/theory-learning-games)
 
- ![The Theory of Learning in Games](https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262061940%26type%3D.jpg?itok=UDos803f) 
+![The Theory of Learning in Games](https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262061940%26type%3D.jpg?itok=UDos803f) 
 
 [Theory of Conditional Games]( https://www.amazon.co.uk/Theory-Conditional-Games-Wynn-Stirling/dp/110742898X/ref=sr_1_54?qid=1571587693&s=books&sr=1-54)
 
- ![img](https://images-na.ssl-images-amazon.com/images/I/41W9hQlJRHL._SX330_BO1,204,203,200_.jpg) 
+![img](https://images-na.ssl-images-amazon.com/images/I/41W9hQlJRHL._SX330_BO1,204,203,200_.jpg) 
 
 [Subgame Consistent Cooperation: A Comprehensive Treatise]( https://www.amazon.co.uk/Subgame-Consistent-Cooperation-Comprehensive-Treatise/dp/9811015449/ref=sr_1_41?qid=1571587670&s=books&sr=1-41)
 
- ![img](https://images-na.ssl-images-amazon.com/images/I/41dXLR61EOL._SX311_BO1,204,203,200_.jpg) 
+![img](https://images-na.ssl-images-amazon.com/images/I/41dXLR61EOL._SX311_BO1,204,203,200_.jpg) 
 
 [Twenty Lectures on Algorithmic Game Theory]( https://www.amazon.co.uk/Twenty-Lectures-Algorithmic-Game-Theory/dp/131662479X/ref=sxbs_sxwds-stvp?pd_rd_i=131662479X&pd_rd_r=3c1f34a7-ba0a-4045-801a-8ea3faf93324&pd_rd_w=Ye3Y2&pd_rd_wg=ak9Fd&pf_rd_p=7dc56c0d-8a5f-4d97-9143-7233b106859a&pf_rd_r=M1VYXY78S7AW1CWFN1CM&qid=1571587693&s=books) 
 
- ![img](https://images-na.ssl-images-amazon.com/images/I/41Es8K5-LTL._SX331_BO1,204,203,200_.jpg) 
+![img](https://images-na.ssl-images-amazon.com/images/I/41Es8K5-LTL._SX331_BO1,204,203,200_.jpg) 
 
 [Prisoner's Dilemma: John Von Neumann, Game Theory and the Puzzle of the Bomb](https://www.amazon.co.uk/Prisoners-Dilemma-Neumann-Theory-Puzzle/dp/038541580X/ref=pd_sbs_14_10?_encoding=UTF8&pd_rd_i=038541580X&pd_rd_r=4aef87dd-336e-497c-b43a-b8952e841513&pd_rd_w=dCbK6&pd_rd_wg=RqlN3&pf_rd_p=cc188cba-1892-42b3-956f-6c67d0ab7a00&pf_rd_r=HTCDF7TPHYAG9EE0EY9A&psc=1&refRID=HTCDF7TPHYAG9EE0EY9A)
 ![img](https://images-na.ssl-images-amazon.com/images/I/51JDofUSNLL._SX321_BO1,204,203,200_.jpg)
@@ -109,6 +112,13 @@ Game Theory Books for Academic
  [Introduction to the Theory of Cooperative Games](https://www.amazon.com/Introduction-Theory-Cooperative-Decision-Library/dp/3540729445/ref=sr_1_1?keywords=introduction+to+the+Theory+of+Cooperative+Games&qid=1571635916&s=books&sr=1-1)
  
  ![img](https://images-na.ssl-images-amazon.com/images/I/41C7EEb16FL._SX313_BO1,204,203,200_.jpg)
+ 
+ [Social and Economic Networks in Cooperative Game Theory](https://www.springer.com/gp/book/9780792372264)
+  ![img](https://images.springer.com/sgw/books/medium/9780792372264.jpg)
+ 
+ [Cooperative Game Theory and Applications](https://www.springer.com/gp/book/9780792344766)
+ 
+ ![img](https://images.springer.com/sgw/books/medium/9780792344766.jpg)
  
  [Models in Cooperative Game Theory](https://www.amazon.com/Models-Cooperative-Theory-Rodica-Branzei/dp/3540779531/ref=sr_1_2?keywords=Models+in+Cooperative+Game+Theory&qid=1571636695&s=books&sr=1-2)
  
