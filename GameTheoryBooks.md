@@ -108,7 +108,7 @@ Game Theory Books for Academic
  
  [Handbook of Game Theory (Volume 4)](https://www.elsevier.com/books/handbook-of-game-theory/young/978-0-444-53766-9)
  
- ![img](https://secure-ecsd.elsevier.com/covers/80/Tango2/large/9780444880987.jpg)(https://secure-ecsd.elsevier.com/covers/80/Tango2/large/9780444894274.jpg)
+ ![img](https://secure-ecsd.elsevier.com/covers/80/Tango2/large/9780444880987.jpg)
  
  
  
