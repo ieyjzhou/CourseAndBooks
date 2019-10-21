@@ -25,6 +25,20 @@ Game Theory Books for Academic
 
  ![img](https://images-na.ssl-images-amazon.com/images/I/41JQsPVag1L._SX330_BO1,204,203,200_.jpg)
 
+[Introduction to Game Theory](https://www.springer.com/gp/book/9780387942841)
+
+![img](https://images.springer.com/sgw/books/medium/9780387942841.jpg)
+
+
+[Game Theory](https://www.springer.com/gp/book/9780387902388)
+
+![img](https://images.springer.com/sgw/books/medium/9780387902388.jpg)
+
+[Foundations of Game Theory](https://www.springer.com/gp/book/9783764323783)
+
+![img](https://images.springer.com/sgw/books/medium/9783764323783.jpg)
+
+
 [Game Theory]( https://mitpress.mit.edu/books/game-theory )
 
  ![Game Theory](https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262061414%26type%3D.jpg?itok=p4QX22H_) 
