@@ -1,4 +1,6 @@
-Game Theory Books
+***
+Game Theory Books for Academic
+***
 [Two-Person Game Theory: The Essential Ideas](https://www.amazon.com/Two-Person-Game-Theory-Essential-Mathematics-ebook/dp/B00A73FPCI/ref=sr_1_1?keywords=Two-person+game+theory+The+essential+ideas&qid=1571636270&s=books&sr=1-1)
 
 ![img](https://images-na.ssl-images-amazon.com/images/I/41NYWi6AVKL.jpg)
