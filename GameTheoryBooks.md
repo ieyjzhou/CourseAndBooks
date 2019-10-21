@@ -32,6 +32,9 @@ Game Theory Books
 
  ![img](http://www.gtessentials.org/cover.gif) 
 
+[Game Theory Through Examples](https://www.maa.org/press/maa-reviews/game-theory-through-examples)
+![img](https://static.cambridge.org/content/id/urn:cambridge.org:id:book:9781614441151/resource/name/9781614441151i.jpg)
+
 [The Theory of Learning in Games](https://mitpress.mit.edu/books/theory-learning-games)
 
  ![The Theory of Learning in Games](https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262061940%26type%3D.jpg?itok=UDos803f) 
