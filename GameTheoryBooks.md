@@ -59,6 +59,9 @@ Game Theory Books
  [Strategies and Games Theory and Practice ](https://mitpress.mit.edu/books/strategies-and-games)
 
  ![Strategies and Games](https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262041690%26type%3D.jpg?itok=TQZnUauc) 
+ 
+[The Art of Strategy: A Game Theorist's Guide to Success in Business and Life](https://www.amazon.co.uk/Art-Strategy-Theorists-Success-Business/dp/0393337170/ref=pd_sbs_14_5/262-6205823-8660163?_encoding=UTF8&pd_rd_i=0393337170&pd_rd_r=6bdf6fcc-acac-4f1a-ace1-dd3ef7c06a09&pd_rd_w=8ev9H&pd_rd_wg=RiKwK&pf_rd_p=cc188cba-1892-42b3-956f-6c67d0ab7a00&pf_rd_r=80974Z090HHB5RPASKMV&psc=1&refRID=80974Z090HHB5RPASKMV)
+![img](https://images-na.ssl-images-amazon.com/images/I/41rgLnbD4zL._SX332_BO1,204,203,200_.jpg)
 
 [Competitive Strategy: Options and Games]( https://www.amazon.com/Competitive-Strategy-Options-Games-Press/dp/0262015994 )
 
