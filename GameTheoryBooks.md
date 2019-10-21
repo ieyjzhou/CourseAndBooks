@@ -114,7 +114,8 @@ Game Theory Books for Academic
  ![img](https://images-na.ssl-images-amazon.com/images/I/41C7EEb16FL._SX313_BO1,204,203,200_.jpg)
  
  [Social and Economic Networks in Cooperative Game Theory](https://www.springer.com/gp/book/9780792372264)
-  ![img](https://images.springer.com/sgw/books/medium/9780792372264.jpg)
+ 
+ ![img](https://images.springer.com/sgw/books/medium/9780792372264.jpg)
  
  [Cooperative Game Theory and Applications](https://www.springer.com/gp/book/9780792344766)
  
