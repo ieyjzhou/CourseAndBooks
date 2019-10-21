@@ -71,6 +71,13 @@ Game Theory Books
  
  ![img](https://images-na.ssl-images-amazon.com/images/I/413%2Bw%2BrfWdL._SX326_BO1,204,203,200_.jpg)
  
+ ***
+ If you are not academic and want to know the story of Game Theory, you can read the following books.
+ ***
+ [Introducing Game Theory: A Graphic Guide](https://www.amazon.com/Introducing-Game-Theory-Graphic-Guide/dp/1785780824)
+ 
+ ![img](https://images-na.ssl-images-amazon.com/images/I/51MjdLN9JlL._SX349_BO1,204,203,200_.jpg)
+ 
 [The Art of Strategy: A Game Theorist's Guide to Success in Business and Life](https://www.amazon.co.uk/Art-Strategy-Theorists-Success-Business/dp/0393337170/ref=pd_sbs_14_5/262-6205823-8660163?_encoding=UTF8&pd_rd_i=0393337170&pd_rd_r=6bdf6fcc-acac-4f1a-ace1-dd3ef7c06a09&pd_rd_w=8ev9H&pd_rd_wg=RiKwK&pf_rd_p=cc188cba-1892-42b3-956f-6c67d0ab7a00&pf_rd_r=80974Z090HHB5RPASKMV&psc=1&refRID=80974Z090HHB5RPASKMV)
 ![img](https://images-na.ssl-images-amazon.com/images/I/41rgLnbD4zL._SX332_BO1,204,203,200_.jpg)
 
