@@ -93,6 +93,7 @@ Game Theory Books for Academic
  ![img](https://images-na.ssl-images-amazon.com/images/I/41AXYS865XL._SX395_BO1,204,203,200_.jpg)
  
  [Introduction to the Theory of Cooperative Games](https://www.amazon.com/Introduction-Theory-Cooperative-Decision-Library/dp/3540729445/ref=sr_1_1?keywords=introduction+to+the+Theory+of+Cooperative+Games&qid=1571635916&s=books&sr=1-1)
+ 
  ![img](https://images-na.ssl-images-amazon.com/images/I/41C7EEb16FL._SX313_BO1,204,203,200_.jpg)
  
  [Models in Cooperative Game Theory](https://www.amazon.com/Models-Cooperative-Theory-Rodica-Branzei/dp/3540779531/ref=sr_1_2?keywords=Models+in+Cooperative+Game+Theory&qid=1571636695&s=books&sr=1-2)
@@ -100,8 +101,11 @@ Game Theory Books for Academic
  ![img](https://images-na.ssl-images-amazon.com/images/I/41Af6abXhLL._SX313_BO1,204,203,200_.jpg)
  
  [Handbook of Game Theory with Economic Applications (Volume 1)](https://www.elsevier.com/books/handbook-of-game-theory-with-economic-applications/aumann/978-0-444-88098-7)
+ 
  [Handbook of Game Theory with Economic Applications (Volume 2)](https://www.elsevier.com/books/handbook-of-game-theory-with-economic-applications/aumann/978-0-444-89427-4)
+ 
  [Handbook of Game Theory with Economic Applications (Volume 3)](https://www.elsevier.com/books/handbook-of-game-theory-with-economic-applications/aumann/978-0-444-89428-1)
+ 
  [Handbook of Game Theory (Volume 4)](https://www.elsevier.com/books/handbook-of-game-theory/young/978-0-444-53766-9)
  
  ![img](https://secure-ecsd.elsevier.com/covers/80/Tango2/large/9780444880987.jpg)
