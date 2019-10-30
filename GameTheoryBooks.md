@@ -155,6 +155,13 @@ Game Theory Books for Academic
 
  ![img](https://images-na.ssl-images-amazon.com/images/I/51ZbE2lhDJL._SX329_BO1,204,203,200_.jpg) 
 
+[The Perfect Bet](https://www.amazon.com/Perfect-Bet-Science-Taking-Gambling-ebook/dp/B017QL8UOS)
 
+![img](https://images-na.ssl-images-amazon.com/images/I/51sROGdyt5L._SX331_BO1,204,203,200_.jpg)
 
+ ***
+ Chinese version (中文版教材)
+ ***
+ [完美博弈](https://book.douban.com/subject/30221328/)
  
+![img](https://img3.doubanio.com/view/subject/l/public/s29818020.jpg) 
