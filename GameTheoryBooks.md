@@ -25,6 +25,10 @@ Game Theory Books for Academic
 
  ![img](https://images-na.ssl-images-amazon.com/images/I/41JQsPVag1L._SX330_BO1,204,203,200_.jpg)
 
+[Game Theory A Multi-Leveled Approach](https://www.springer.com/gp/book/9783540692911)
+
+![img](https://images.springer.com/sgw/books/medium/9783540692911.jpg)
+
 [Introduction to Game Theory](https://www.springer.com/gp/book/9780387942841)
 
 ![img](https://images.springer.com/sgw/books/medium/9780387942841.jpg)
